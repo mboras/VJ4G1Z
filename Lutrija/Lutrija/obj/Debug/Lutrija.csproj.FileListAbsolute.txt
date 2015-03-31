@@ -1,1 +1,5 @@
 C:\Users\pi\Documents\GitHub\VJ4G1Z\Lutrija\Lutrija\bin\Debug\Lutrija.exe.config
+C:\Users\pi\Documents\GitHub\VJ4G1Z\Lutrija\Lutrija\obj\Debug\Lutrija.csprojResolveAssemblyReference.cache
+C:\Users\pi\Documents\GitHub\VJ4G1Z\Lutrija\Lutrija\obj\Debug\Lutrija.frmGLavnaForma.resources
+C:\Users\pi\Documents\GitHub\VJ4G1Z\Lutrija\Lutrija\obj\Debug\Lutrija.Properties.Resources.resources
+C:\Users\pi\Documents\GitHub\VJ4G1Z\Lutrija\Lutrija\obj\Debug\Lutrija.csproj.GenerateResource.Cache

@@ -143,11 +143,13 @@
             this.btnUplati.TabIndex = 7;
             this.btnUplati.Text = "Uplati";
             this.btnUplati.UseVisualStyleBackColor = true;
+            this.btnUplati.Click += new System.EventHandler(this.btnUplati_Click);
             // 
             // txtDobitniBroj1
             // 
             this.txtDobitniBroj1.Location = new System.Drawing.Point(6, 31);
             this.txtDobitniBroj1.Name = "txtDobitniBroj1";
+            this.txtDobitniBroj1.ReadOnly = true;
             this.txtDobitniBroj1.Size = new System.Drawing.Size(40, 20);
             this.txtDobitniBroj1.TabIndex = 1;
             // 
@@ -155,6 +157,7 @@
             // 
             this.txtDobitniBroj2.Location = new System.Drawing.Point(52, 31);
             this.txtDobitniBroj2.Name = "txtDobitniBroj2";
+            this.txtDobitniBroj2.ReadOnly = true;
             this.txtDobitniBroj2.Size = new System.Drawing.Size(40, 20);
             this.txtDobitniBroj2.TabIndex = 2;
             // 
@@ -162,6 +165,7 @@
             // 
             this.txtDobitniBroj3.Location = new System.Drawing.Point(97, 31);
             this.txtDobitniBroj3.Name = "txtDobitniBroj3";
+            this.txtDobitniBroj3.ReadOnly = true;
             this.txtDobitniBroj3.Size = new System.Drawing.Size(40, 20);
             this.txtDobitniBroj3.TabIndex = 3;
             // 
@@ -169,6 +173,7 @@
             // 
             this.txtDobitniBroj4.Location = new System.Drawing.Point(143, 31);
             this.txtDobitniBroj4.Name = "txtDobitniBroj4";
+            this.txtDobitniBroj4.ReadOnly = true;
             this.txtDobitniBroj4.Size = new System.Drawing.Size(40, 20);
             this.txtDobitniBroj4.TabIndex = 4;
             // 
@@ -176,6 +181,7 @@
             // 
             this.txtDobitniBroj5.Location = new System.Drawing.Point(189, 31);
             this.txtDobitniBroj5.Name = "txtDobitniBroj5";
+            this.txtDobitniBroj5.ReadOnly = true;
             this.txtDobitniBroj5.Size = new System.Drawing.Size(40, 20);
             this.txtDobitniBroj5.TabIndex = 5;
             // 
@@ -183,6 +189,7 @@
             // 
             this.txtDobitniBroj6.Location = new System.Drawing.Point(235, 31);
             this.txtDobitniBroj6.Name = "txtDobitniBroj6";
+            this.txtDobitniBroj6.ReadOnly = true;
             this.txtDobitniBroj6.Size = new System.Drawing.Size(40, 20);
             this.txtDobitniBroj6.TabIndex = 6;
             // 
@@ -190,6 +197,7 @@
             // 
             this.txtDobitniBroj7.Location = new System.Drawing.Point(281, 31);
             this.txtDobitniBroj7.Name = "txtDobitniBroj7";
+            this.txtDobitniBroj7.ReadOnly = true;
             this.txtDobitniBroj7.Size = new System.Drawing.Size(40, 20);
             this.txtDobitniBroj7.TabIndex = 7;
             // 
@@ -201,6 +209,7 @@
             this.btnOdigraj.TabIndex = 8;
             this.btnOdigraj.Text = "Odigraj";
             this.btnOdigraj.UseVisualStyleBackColor = true;
+            this.btnOdigraj.Click += new System.EventHandler(this.btnOdigraj_Click);
             // 
             // lblNaslov
             // 
